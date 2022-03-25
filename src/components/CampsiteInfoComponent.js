@@ -9,9 +9,7 @@ import {
   Modal,
   ModalHeader,
   ModalBody,
-  Row,
   Label,
-  Col,
 } from 'reactstrap';
 import {Link} from 'react-router-dom';
 import Button from 'reactstrap/lib/Button';
